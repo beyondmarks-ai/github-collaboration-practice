@@ -16,3 +16,10 @@ collaboration workflow: issues, focused branches, pull requests, and merges.
 The examples here are intentionally documentation-only, making the repository
 safe for practicing collaboration without affecting a production project.
 
+
+<!-- beyond-marks-credit:start -->
+---
+### Built by Beyond Marks AI Academy
+
+Developed by **Rakesh Kumar** at [Beyond Marks AI Academy](https://beyondmarks.ai).
+<!-- beyond-marks-credit:end -->
